@@ -8,7 +8,7 @@
 
 <!-- [![Linkedin: Areful](http://stackoverflow.com){:target="_blank" rel="noopener"}] -->
 
-
+<a href="https://twitter.com/ArefulCode"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArefulCode?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 
 **iAreful/iAreful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://komarev.com/ghpvc/?username=iAreful)
