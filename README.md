@@ -13,3 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## AboutMe.js
+```
+const amado = {
+    pronouns: "he" | "him",
+    code: [Javascript, React, Next.js, Gatsby, ],
+    askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["TailwindCSS", "Materialize", "Ant Design"]
+        },
+        backEnd: {
+            js: ["node", "express", "Firbase"]
+        }        
+    }
+};
+```
