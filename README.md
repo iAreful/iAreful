@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/ArefulCode?style=social)
+[![Linkedin: Areful](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areful)
+
+
+
+
+
 
 **iAreful/iAreful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://komarev.com/ghpvc/?username=iAreful)
