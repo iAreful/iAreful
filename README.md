@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## AboutMe.js
 ```
-const amado = {
+const areful = {
     pronouns: "he" | "him",
     code: [Javascript, React, Next.js, Gatsby, ],
     askMeAbout: ["web dev", "tech", "crypto", "music", "coffee"],
