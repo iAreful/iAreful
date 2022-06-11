@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/ArefulCode?style=social) -->
-[![Linkedin: Areful](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areful)
+<!-- [![Linkedin: Areful](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areful) -->
 
 
 <!-- [![Linkedin: Areful](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areful){:target="_blank" rel="noopener"}] -->
