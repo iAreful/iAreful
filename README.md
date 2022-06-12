@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=iAreful)
 
 <br/>
-[![Areful GitHub stats](https://github-readme-stats.vercel.app/api?username=iAreful)](https://github.com/msoftware/github-readme-stats)
+<!-- [![Areful GitHub stats](https://github-readme-stats.vercel.app/api?username=iAreful)](https://github.com/iAreful/github-readme-stats) -->
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAreful&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
