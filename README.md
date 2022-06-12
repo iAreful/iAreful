@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+[![Support Ukraine Badge](https://img.shields.io/badge/Support%20Ukraine%20with%20unicef-Now-FEF100)](https://www.unicef.org/emergencies/war-ukraine-pose-immediate-threat-children)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://standforukraine.com/)
+<br/>
+
 ![](https://komarev.com/ghpvc/?username=iAreful)
 
 <br/>
