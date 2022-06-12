@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Areful 👋
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/ArefulCode?style=social) -->
 <!-- [![Linkedin: Areful](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areful) -->
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 [![Support Ukraine Badge](https://img.shields.io/badge/Support%20Ukraine%20with%20unicef-Now-FEF100)](https://www.unicef.org/emergencies/war-ukraine-pose-immediate-threat-children)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://standforukraine.com/)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://standforukraine.com/)  
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=iAreful)
