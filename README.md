@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iAreful&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=31C4DD)](https://git.io/streak-stats)
+
+<br/>
+---
+
+
 ## AboutMe.js
 ```
 const areful = {
