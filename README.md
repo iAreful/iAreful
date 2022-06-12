@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <br/>
 <!-- [![Areful GitHub stats](https://github-readme-stats.vercel.app/api?username=iAreful)](https://github.com/iAreful/github-readme-stats) -->
-<br/>
+<!-- <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAreful&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=iAreful)](https://github.com/ryo-ma/github-profile-trophy)
+<br/> -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=iAreful)]() -->
 
 <br/>
 
