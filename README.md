@@ -51,7 +51,7 @@ const areful = {
             css: ["TailwindCSS", "Materialize", "Ant Design"]
         },
         backEnd: {
-            js: ["node", "express", "Firbase"]
+            js: ["node", "express", "firbase", "aws"]
         }        
     }
 };
