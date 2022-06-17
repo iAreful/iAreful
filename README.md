@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iAreful)
 
-<a href='https://img.shields.io/twitter/follow/ArefulCode?style=social' target='_blank'>
+<a href='https://twitter.com/ArefulCode' target='_blank'>
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArefulCode?style=social">
 <a/>
     
