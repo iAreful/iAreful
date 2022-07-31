@@ -1,12 +1,12 @@
 ### Hi there, I'm Areful 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=0283F7&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=Md.+Areful+Islam)](https://git.io/typing-svg) <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=3136F7&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=Areful.com)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=F7CD2E&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=Areful.com)](https://git.io/typing-svg) <br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=3136F7&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=Former+EE+Engineer)](https://git.io/typing-svg) <br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=3136F7&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=Coder)](https://git.io/typing-svg) <br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=3136F7&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=Technical+Enthusiast)](https://git.io/typing-svg) <br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=DDD101&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=MERN+Stack+Developer)](https://git.io/typing-svg) <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=03C6C7&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=React+%7C%7C+MongoDB+%7C%7C+Node.js+%7C%7C+ExpressJS+%7C%7C+Next.js+%7C%7C+Gatsby+js+%26%26+Areful)](https://git.io/typing-svg) <br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=03C6C7&background=FF2D2D00&vCenter=true&multiline=true&width=950&height=60&lines=React+%7C%7C+MongoDB+%7C%7C+Node.js+%7C%7C+ExpressJS+%7C%7C+Next.js+%7C%7C+Gatsby+js+%26%26+Areful)](https://git.io/typing-svg)
 
 [![Support Ukraine Badge](https://img.shields.io/badge/Support%20Ukraine%20with%20unicef-Now-FEF100)](https://www.unicef.org/emergencies/war-ukraine-pose-immediate-threat-children)
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://standforukraine.com/)  
